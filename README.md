@@ -8,4 +8,6 @@ We employ various methods to explore and manipulate the dataset, providing an ov
 ### Text Preprocessing: 
 Detailed steps in preparing text data for sentiment analysis, including tokenization, lowercase conversion, character removal, stopword elimination, and stemming. Explanation of TF-IDF vectorization and model training using a RandomForest classifier for sentiment analysis. A summary of our journey into data analytics and sentiment analysis, highlighting the progress made and paving the way for advanced analysis in the project.
 
+Link for the dataset - [Amazon Food Review's](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) on kaggle.
+
 Stay tuned for more insights and discoveries as we continue our data analytics journey!
